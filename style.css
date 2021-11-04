@@ -1,0 +1,86 @@
+body
+    {background-image:url("img/bg.jpg");
+    margin: 0px auto;
+    width:1250px;
+    height: 1000px;
+}
+    
+    
+
+.sobapoti{
+    margin: 10px 00px 10px 20%;
+    text-align:left;
+    color:rgb(235, 59, 28);   } 
+.head-teacher{
+    color:rgb(235, 59, 28);   
+    text-align:right;
+    margin-top:-55px;
+    margin-right:15%;
+}
+
+.nav-style{
+    width:1220px;
+	height:100px;
+    background-color:#00a3c35d;
+    margin-top:10px;
+    margin-left:15px;
+    margin-right:20px;
+    margin-bottom:05px;
+    float:center;
+}
+.ch-photo{
+    
+   
+}
+.our-school{
+    color: REd;
+    text-align:center;
+    display:flex;
+}
+.mero{
+    color: rgb(25, 0, 255);
+}
+.our-school-lo{
+    color:darkmagenta;
+}
+.hero-file{
+    margin: 20px;
+
+}
+.our-tec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    margin-top: 20px;
+
+}
+.card{
+   
+    margin-left:120px ;
+    margin-bottom: 12%;
+    
+}
+.map{
+    margin-top:20px;
+}
+#carouselExampleCaptions{
+    width:1220px
+}
+.our-location{
+    color: REd;
+    text-align:center;
+   
+}
+footer{
+    text-align: center;
+    background-color: #232729;
+    color: white;
+    margin: 20px 0px 20px 0px;
+    height: 100px;
+    width: 1200px;
+    
+}
+footer h3{
+    line-height: 100px;
+}
